@@ -1,5 +1,5 @@
 # MSAIMLE
-## Microsoft AI &amp; ML Engineering Professional Certificate
+## Microsoft AI &amp; ML Engineering Professional Certificate (5 course series)
 
 This comprehensive program is designed to prepare you for the dynamic field of artificial intelligence and machine learning. Across five courses, you gain a deep understanding of AI & ML fundamentals, practical skills, and hands-on experience.
 
